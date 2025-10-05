@@ -14,6 +14,28 @@ ReaNApp explores an alternative:
 a communication system where **no central server** — not even the developer — can access message content or metadata.
 
 ---
+## 🧱 Architecture Overview
+
+ReaNApp uses a layered encryption architecture based on X25519 and AES-GCM,  
+ensuring both parties derive the same session key through ECDH and HKDF before message encryption.
+
+<p align="center">
+  <img src="docs/encryption_flow.png" alt="Encryption Diagram" width="500"/>
+</p>
+In ReaNApp’s “Maximum Security Mode,” this shared key is further wrapped with a local PIN-derived key before decryption.
+
+---
+
+## 🖼️ User Interface Preview
+
+The app follows a dark cyber-aesthetic inspired by Zero Trust design —  
+focused, minimal, and privacy-driven.
+
+<p align="center">
+  <img src="docs/Screenshot 2025-10-05 220424.png" alt="ReaNApp UI Preview" width="600"/>
+</p>
+
+---
 
 ## ⚙️ Key Concepts
 
