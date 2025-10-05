@@ -75,7 +75,7 @@ ReaNApp aims to demonstrate that real security is possible only when **trust is 
 
 **Mohammed Altanib**  
 Cyber Security Student | Researcher | Developer  
-[🌐 Portfolio Website](https://mohammedaltanib.com) • [🔗 LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammed-altanib-020a672a4/))
+[🌐 Portfolio Website](https://mohammedaltanib.com) • [🔗 LinkedIn](https://www.linkedin.com/in/mohammed-altanib-020a672a4/)
 
 ---
 
